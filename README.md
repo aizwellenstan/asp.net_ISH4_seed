@@ -1,13 +1,9 @@
 # Arch.IS4Host
-
+<pre>
 #Technologies
-<br>
 ASP.NET Core
-<br>
 identityserver4
-<br>
 Angular
-<br>
 PostgreSQL
 
 commands
@@ -17,3 +13,4 @@ $ dotnet new is4aspid --version 2.1.0
     do you want to run this action -> N
 $ dotnet add package Microsoft.EntityFrameworkCore --version 2.1.0
 $ dotnet add package Microsoft.EntityFrameworkCore.Design --version 2.1.0
+</pre>
